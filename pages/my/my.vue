@@ -24,7 +24,7 @@
 						</view>
 					<view class="immediately">
 						<view class="immediatelybtn">
-							立即开启
+							立即开启哦
 						</view>
 						<text>&gt</text>
 					</view>
