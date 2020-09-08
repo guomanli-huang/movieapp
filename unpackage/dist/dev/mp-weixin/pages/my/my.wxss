@@ -1,0 +1,106 @@
+.my.data-v-0be17cc6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.my .login.data-v-0be17cc6 {
+  width: 750rpx;
+  height: 180px;
+  background-color: #ffff66;
+}
+.my .login .loginbtn.data-v-0be17cc6 {
+  margin: 50px auto;
+  width: 400rpx;
+  height: 45px;
+  text-align: center;
+  line-height: 45px;
+  background-color: #fff;
+  border-radius: 15px;
+}
+.my .title.data-v-0be17cc6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.my .title .left.data-v-0be17cc6 {
+  font-weight: bold;
+  font-size: 18px;
+}
+.my .title .right.data-v-0be17cc6 {
+  color: #ccc;
+  font-size: 12px;
+}
+.my .bookmsg .analyse.data-v-0be17cc6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  height: 100px;
+  width: 750rpx;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.my .bookmsg .analyse .imgs.data-v-0be17cc6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  width: 200rpx;
+  height: 100%;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.my .bookmsg .analyse .imgs .look.data-v-0be17cc6 {
+  font-size: 14px;
+}
+.my .bookmsg .analyse .watchrecode.data-v-0be17cc6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.my .bookmsg .analyse .watchrecode .watch.data-v-0be17cc6 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  color: #ddd;
+  font-size: 14px;
+  margin-right: 10px;
+}
+.my .bookmsg .analyse .watchrecode .immediately.data-v-0be17cc6 {
+  width: 120px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.my .bookmsg .analyse .watchrecode .immediately .immediatelybtn.data-v-0be17cc6 {
+  width: 80px;
+  height: 30px;
+  background-color: #ddd;
+  line-height: 30px;
+  font-size: 14px;
+  text-align: center;
+}
+

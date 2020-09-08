@@ -1,0 +1,93 @@
+.content.data-v-57280228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.content .nav.data-v-57280228 {
+  width: 750rpx;
+  background-color: yellow;
+  height: 40px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.content .nav .searchmsg.data-v-57280228 {
+  width: 720rpx;
+  height: 32px;
+  background: #fff;
+  border-radius: 15px;
+  text-align: center;
+  line-height: 32px;
+}
+.content .hotmovie.data-v-57280228 {
+  height: 200px;
+  width: 750rpx;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.content .hotmovie .hottitle.data-v-57280228 {
+  height: 30px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.content .hotmovie .hottitle .left.data-v-57280228 {
+  font-weight: bold;
+}
+.content .hotmovie .hottitle .right.data-v-57280228 {
+  color: green;
+}
+.content .hotmovie .hotmovielist.data-v-57280228 {
+  width: 750rpx;
+  white-space: nowrap;
+  padding: 10px 0px;
+  box-sizing: border-box;
+  height: 170px;
+}
+.content .hotmovie .hotmovielist .listbox.data-v-57280228 {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-right: 10px;
+}
+.content .hotmovie .hotmovielist .listbox .imgmsg.data-v-57280228 {
+  width: 120px;
+  height: 100px;
+}
+.content .hotmovie .hotmovielist .listbox .movierating.data-v-57280228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.content .hotmovie .hotmovielist .listbox .title.data-v-57280228 {
+  width: 120px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
